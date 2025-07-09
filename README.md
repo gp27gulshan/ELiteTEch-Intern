@@ -1,24 +1,22 @@
 # 💼 ELiteTEch Intern
 
-A collection of full-stack and front-end web projects built during my internship phase as a B.Tech Computer Science student.
+A collection of  front-end web projects built during my internship phase as a B.Tech Computer Science student.
 
 ## 🚀 Projects Included
 
-### 1. 💬 Real-Time Chat App
-- Technologies: HTML, CSS, JavaScript, Node.js, Socket.IO
-- Features: Real-time messaging between users, responsive UI
+This repository contains 4 internship tasks:
 
-### 2. 🧠 Quiz Application
-- Technologies: HTML, CSS, JavaScript
-- Features: Multiple-choice quiz, live score tracking
+### 🔢 Task 1 – Quiz Application
+An interactive quiz with multiple-choice questions using HTML, CSS, and JavaScript.
 
-### 3. 📚 E-Learning Platform UI
-- Technologies: HTML, CSS, JavaScript
-- Features: Front-end interface for course listings, progress tracking
+### 💬 Task 2 – Real-Time Chat App
+Built with WebSockets using Node.js and Socket.IO for real-time communication.
 
-### 4. 🌐 Personal Portfolio
-- Technologies: HTML, CSS
-- Features: A single-page responsive portfolio with my bio, education, hobbies, and projects
+### 🧑‍💻 Task 3 – Personal Portfolio
+A single-page responsive portfolio to showcase skills, hobbies, and education.
+
+### 📚 Task 4 – E-Learning Platform UI
+Frontend for an e-learning platform with course listings and embedded video layout.
 
 ---
 
